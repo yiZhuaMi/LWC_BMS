@@ -1,0 +1,17 @@
+com.microsoft.sqlserver.jdbc.SQLServerException: 通过端口 1433 连接到主机 localhost 的 TCP/IP 连接失败。错误:“Connection refused: connect。请验证连接属性。确保 SQL Server 的实例正在主机上运行，且在此端口接受 TCP/IP 连接，还要确保防火墙没有阻止到此端口的 TCP 连接。”。
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDriverError(SQLServerException.java:190)
+	at com.microsoft.sqlserver.jdbc.SQLServerException.ConvertConnectExceptionToSQLServerException(SQLServerException.java:241)
+	at com.microsoft.sqlserver.jdbc.SocketFinder.findSocket(IOBuffer.java:2243)
+	at com.microsoft.sqlserver.jdbc.TDSChannel.open(IOBuffer.java:491)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectHelper(SQLServerConnection.java:1309)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.login(SQLServerConnection.java:991)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connect(SQLServerConnection.java:827)
+	at com.microsoft.sqlserver.jdbc.SQLServerDriver.connect(SQLServerDriver.java:1012)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at database.DBConnection.getConnection(DBConnection.java:36)
+	at operator.Operator.search(Operator.java:141)
+	at net.ClientThread.run(ClientThread.java:97)
+Exception in thread "Thread-2" java.lang.NullPointerException
+	at operator.Operator.search(Operator.java:146)
+	at net.ClientThread.run(ClientThread.java:97)

@@ -1,0 +1,20 @@
+客户端IP地址：/127.0.0.1    端口号：50328    time:2016-06-06 15:14:38    Operation:search    keyword:数据
+客户端IP地址：/127.0.0.1    端口号：51533    time:2016-06-07 16:25:09    Operation:search    keyword:数
+客户端IP地址：/172.33.16.60    端口号：51846    time:2016-06-08 21:55:59    Operation:search    keyword:'empty'
+客户端IP地址：/127.0.0.1    端口号：51509    time:2016-06-13 22:02:18    Operation:search    keyword:'empty'
+客户端IP地址：/127.0.0.1    端口号：51475    time:2016-06-21 17:11:57    Operation:search    keyword:数据
+客户端IP地址：/127.0.0.1    端口号：51475    time:2016-06-21 17:12:04    Operation:search    keyword:傻逼
+客户端IP地址：/127.0.0.1    端口号：51475    time:2016-06-21 17:12:15    Operation:search    keyword:朱豪
+客户端IP地址：/127.0.0.1    端口号：64535    time:2016-07-12 21:54:17    Operation:search    keyword:数据
+客户端IP地址：/127.0.0.1    端口号：64535    time:2016-07-12 21:54:26    Operation:search    keyword:数学
+客户端IP地址：/127.0.0.1    端口号：64535    time:2016-07-12 21:54:30    Operation:search    keyword:'empty'
+客户端IP地址：/127.0.0.1    端口号：64535    time:2016-07-12 21:54:42    Operation:search    keyword:'empty'
+客户端IP地址：/127.0.0.1    端口号：64535    time:2016-07-12 21:54:58    Operation:modify    NewValue:计算机    Col:4    Bookid:11
+客户端IP地址：/127.0.0.1    端口号：64535    time:2016-07-12 21:55:00    Operation:refresh    keyword:'empty'
+客户端IP地址：/127.0.0.1    端口号：64535    time:2016-07-12 21:55:02    Operation:search    keyword:'empty'
+客户端IP地址：/127.0.0.1    端口号：51402    time:2017-07-11 09:53:15    Operation:search    keyword:数据
+客户端IP地址：/127.0.0.1    端口号：61028    time:2018-09-18 16:22:25    Operation:search    keyword:'empty'
+客户端IP地址：/127.0.0.1    端口号：61042    time:2018-09-18 16:23:42    Operation:search    keyword:'empty'
+客户端IP地址：/127.0.0.1    端口号：60327    time:2020-02-25 20:19:55    Operation:search    keyword:'empty'
+客户端IP地址：/127.0.0.1    端口号：60342    time:2020-02-25 20:22:23    Operation:search    keyword:1
+客户端IP地址：/127.0.0.1    端口号：60632    time:2020-02-25 20:30:53    Operation:search    keyword:'empty'
